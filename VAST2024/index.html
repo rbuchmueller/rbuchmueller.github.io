@@ -1,1 +1,80 @@
-hello world
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projection Visualizations</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+        }
+        .top-bar {
+            background-color: #333;
+            color: white;
+            padding: 5px;
+            text-align: center;
+        }
+        .main-container {
+            display: flex;
+            flex: 1;
+        }
+        .left-panel {
+            width: 15%;
+            background-color: #f4f4f4;
+            padding: 10px;
+            box-shadow: 2px 0px 5px rgba(0,0,0,0.1);
+        }
+        .chart-container {
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+            overflow: hidden;
+        }
+        .chart-row {
+            display: flex;
+            flex: 1;
+            justify-content: space-around;
+        }
+        .chart {
+            flex: 1;
+            margin: 10px;
+        }
+        .bottom-chart {
+            margin: 10px;
+            background-color: #f4f4f4;
+            padding: 10px;
+            box-shadow: 0px -2px 5px rgba(0,0,0,0.1);
+            overflow-y: auto;
+            max-height: 200px;
+        }
+        .bottom-chart p {
+            font-size: 0.5em;
+            line-height: 1.5;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="top-bar">Projection Visualizations</div>
+    <div class="main-container">
+        <div class="left-panel" id="leftPanel">Left Panel</div>
+        <div class="chart-container">
+            <div class="chart-row">
+                <div id="customProjection" class="chart"></div>
+                <div id="mds2dProjection" class="chart"></div>
+            </div>
+            <div class="chart-row" style="height: auto;">
+                <div id="bottomView" class="bottom-chart"><p>Hover over a point to see the article text here.</p></div>
+            </div>
+        </div>
+    </div>
+    <script src="js/common.js"></script>
+    <script src="js/custom_projection.js"></script>
+    <script src="js/mds2d_projection.js"></script>
+</body>
+</html>
