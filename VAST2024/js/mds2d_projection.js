@@ -3,7 +3,7 @@
 // Load the data and create the visualization for MDS 2D projection
 d3.csv("MC1/mds2dProjection.csv").then(data => {
     const margin = { top: 10, right: 10, bottom: 10, left: 10 },
-          width = Math.min(window.innerWidth * 0.4 - margin.left - margin.right, window.innerHeight * 0.6 - margin.top - margin.bottom),
+          width = Math.min(window.innerWidth * 0.55 - margin.left - margin.right, window.innerHeight * 0.8 - margin.top - margin.bottom),
           height = width;
 
     const svg = d3.select("#mds2dProjection")
@@ -42,7 +42,7 @@ d3.csv("MC1/mds2dProjection.csv").then(data => {
 
     // Handle window resize
     window.addEventListener('resize', () => {
-        const newWidth = Math.min(window.innerWidth * 0.4 - margin.left - margin.right, window.innerHeight * 0.6 - margin.top - margin.bottom);
+        const newWidth = Math.min(window.innerWidth * 0.55 - margin.left - margin.right, window.innerHeight * 0.8 - margin.top - margin.bottom);
         const newHeight = newWidth;
 
         svg.attr("width", newWidth + margin.left + margin.right)
