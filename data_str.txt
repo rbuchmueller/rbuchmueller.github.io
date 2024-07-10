@@ -1,0 +1,29 @@
+nodes:
+    egg_split: [
+        name: eggsplit,
+        ingredients: egg
+        container: bowl
+        tool: knife
+        time: 0
+        sequence: 0
+    ],
+    flour_sieve: [
+        ....
+    ]
+    dough: [
+        name: dough prep,
+        ingredients: flour, milk, salt
+        container: bowl
+        tool: whisk
+        time: 1
+        sequence : 0 
+    ]
+links: 
+    link_1:[
+        source: egg_split,
+        target: dough
+    ],
+    link_2:[
+        source: flour_sieve,
+        target: dough
+    ]
