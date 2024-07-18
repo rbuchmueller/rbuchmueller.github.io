@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+<style>
+    .tooltip {
+        position: absolute;
+        background-color: rgba(255, 255, 255, 0.9);
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        padding: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        color: #333;
+        pointer-events: none;
+        display: none;
+        transition: opacity 0.3s ease;
+    }
+
+    .tooltip.show {
+        display: block;
+        opacity: 1;
+    }
+
+    .tooltip.hidden {
+        opacity: 0;
+    }
+</style>
+
+    
+</head>
+<body>
+    <div class="chart-container">
+        <div id="barCharts"></div>
+        <div id="sentimentMatrixDiagram"></div>
+        <div id="lengthDifferenceMatrixDiagram"></div>
+        <div id="typeMatrixDiagram"></div>
+        <div id="editorMatrixDiagram"></div>
+        <div id="algorithmMatrixDiagram"></div>
+        <div id="sourceTargetMatrixDiagram"></div>
+        <div id="dotPlotDiagram"></div>
+        <div id="articleText"></div>
+    </div>
+    <div id="articleText"></div>
+    <script src="js/dot_plot.js"></script>
+</body>
+</html>

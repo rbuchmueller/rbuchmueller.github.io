@@ -1,0 +1,1354 @@
+{
+    "Alvarez PLC__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.8459196518278778,
+        "length": 2829
+    },
+    "Alvarez PLC__0__0__Lomark Daily.txt": {
+        "sentiment": -0.25286379537816134,
+        "length": 997
+    },
+    "Alvarez PLC__0__0__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 1195
+    },
+    "Alvarez PLC__0__1__Haacklee Herald.txt": {
+        "sentiment": 1.7142652401659095,
+        "length": 1161
+    },
+    "Alvarez PLC__0__1__Lomark Daily.txt": {
+        "sentiment": 1.473350241341301,
+        "length": 3303
+    },
+    "Alvarez PLC__0__1__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 1209
+    },
+    "Anderson, Brown and Green__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.266120654684717,
+        "length": 1851
+    },
+    "Anderson, Brown and Green__0__0__Lomark Daily.txt": {
+        "sentiment": 1.255240168136678,
+        "length": 1863
+    },
+    "Anderson, Brown and Green__0__0__The News Buoy.txt": {
+        "sentiment": 1.5393445753754966,
+        "length": 2808
+    },
+    "Anderson, Brown and Green__0__1__Haacklee Herald.txt": {
+        "sentiment": 1.628914192286104,
+        "length": 1042
+    },
+    "Anderson, Brown and Green__0__1__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 930
+    },
+    "Anderson, Brown and Green__0__1__The News Buoy.txt": {
+        "sentiment": 1.7412924405648524,
+        "length": 3276
+    },
+    "Arellano Group__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.724638726157631,
+        "length": 1454
+    },
+    "Arellano Group__0__0__Lomark Daily.txt": {
+        "sentiment": 1.502319413277001,
+        "length": 4549
+    },
+    "Arellano Group__0__0__The News Buoy.txt": {
+        "sentiment": 1.6927060225134347,
+        "length": 3057
+    },
+    "Barnes and Sons__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.607176355929748,
+        "length": 4530
+    },
+    "Barnes and Sons__0__0__Lomark Daily.txt": {
+        "sentiment": 1.4704314087926713,
+        "length": 3710
+    },
+    "Barnes and Sons__0__0__The News Buoy.txt": {
+        "sentiment": 1.0,
+        "length": 2656
+    },
+    "Barnett Ltd__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.522114539497758,
+        "length": 848
+    },
+    "Barnett Ltd__0__0__Lomark Daily.txt": {
+        "sentiment": 1.7336706941478732,
+        "length": 1231
+    },
+    "Barnett Ltd__0__0__The News Buoy.txt": {
+        "sentiment": 1.6280374589896378,
+        "length": 670
+    },
+    "Barnett Ltd__0__1__Haacklee Herald.txt": {
+        "sentiment": 1.6973678136591337,
+        "length": 1109
+    },
+    "Barnett Ltd__0__1__The News Buoy.txt": {
+        "sentiment": 1.7093857156555923,
+        "length": 1162
+    },
+    "Bell, Reynolds and Forbes__0__0__Haacklee Herald.txt": {
+        "sentiment": 0.8472513037404026,
+        "length": 2167
+    },
+    "Bell, Reynolds and Forbes__0__0__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 1020
+    },
+    "Bell, Reynolds and Forbes__0__0__The News Buoy.txt": {
+        "sentiment": 1.689634291427692,
+        "length": 1220
+    },
+    "Bell, Reynolds and Forbes__0__1__Haacklee Herald.txt": {
+        "sentiment": 2.0,
+        "length": 1009
+    },
+    "Bell, Reynolds and Forbes__0__1__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 583
+    },
+    "Bell, Reynolds and Forbes__0__1__The News Buoy.txt": {
+        "sentiment": 1.382520720996617,
+        "length": 1298
+    },
+    "Bishop-Hernandez__0__0__Haacklee Herald.txt": {
+        "sentiment": 2.0,
+        "length": 1211
+    },
+    "Bishop-Hernandez__0__0__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 1259
+    },
+    "Bishop-Hernandez__0__0__The News Buoy.txt": {
+        "sentiment": 1.6984974679132034,
+        "length": 1213
+    },
+    "Blackwell, Clark and Lam__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.7563284848796272,
+        "length": 1632
+    },
+    "Blackwell, Clark and Lam__0__0__Lomark Daily.txt": {
+        "sentiment": 1.869266161712564,
+        "length": 2922
+    },
+    "Blackwell, Clark and Lam__0__0__The News Buoy.txt": {
+        "sentiment": 1.5315707353681614,
+        "length": 1302
+    },
+    "Blackwell, Clark and Lam__0__1__Haacklee Herald.txt": {
+        "sentiment": 1.211265659780468,
+        "length": 2251
+    },
+    "Blackwell, Clark and Lam__0__1__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 1085
+    },
+    "Blackwell, Clark and Lam__0__1__The News Buoy.txt": {
+        "sentiment": 1.6824980715547067,
+        "length": 1301
+    },
+    "Bowers Group__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.6113196028552277,
+        "length": 2375
+    },
+    "Bowers Group__0__0__Lomark Daily.txt": {
+        "sentiment": -0.7544608246894872,
+        "length": 814
+    },
+    "Bowers Group__0__0__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 874
+    },
+    "Brown, Clarke and Martinez__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.821201502956643,
+        "length": 2439
+    },
+    "Brown, Clarke and Martinez__0__0__Lomark Daily.txt": {
+        "sentiment": -0.5912465947482656,
+        "length": 2496
+    },
+    "Brown, Clarke and Martinez__0__0__The News Buoy.txt": {
+        "sentiment": 0.8556482564541517,
+        "length": 2367
+    },
+    "Brown, Clarke and Martinez__0__1__Haacklee Herald.txt": {
+        "sentiment": 2.0,
+        "length": 776
+    },
+    "Brown, Clarke and Martinez__0__1__Lomark Daily.txt": {
+        "sentiment": 1.5037940931912435,
+        "length": 1010
+    },
+    "Brown, Clarke and Martinez__0__1__The News Buoy.txt": {
+        "sentiment": -2.0,
+        "length": 369
+    },
+    "Burns Inc__0__0__Haacklee Herald.txt": {
+        "sentiment": 2.0,
+        "length": 798
+    },
+    "Burns Inc__0__0__Lomark Daily.txt": {
+        "sentiment": 1.6815819381419421,
+        "length": 1250
+    },
+    "Burns Inc__0__0__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 506
+    },
+    "Burns Inc__0__1__Haacklee Herald.txt": {
+        "sentiment": 1.3893817809057374,
+        "length": 1174
+    },
+    "Burns Inc__0__1__Lomark Daily.txt": {
+        "sentiment": 1.4261655063280303,
+        "length": 1211
+    },
+    "Burns Inc__0__1__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 2432
+    },
+    "Cain, Simpson and Hernandez__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.6746111660898408,
+        "length": 1223
+    },
+    "Cain, Simpson and Hernandez__0__0__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 1383
+    },
+    "Cain, Simpson and Hernandez__0__0__The News Buoy.txt": {
+        "sentiment": 1.6981160078671762,
+        "length": 1218
+    },
+    "Castillo-Elliott__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.6883920619491226,
+        "length": 1681
+    },
+    "Castillo-Elliott__0__0__Lomark Daily.txt": {
+        "sentiment": 1.5321733831444997,
+        "length": 2804
+    },
+    "Castillo-Elliott__0__0__The News Buoy.txt": {
+        "sentiment": 1.4599039095822601,
+        "length": 3402
+    },
+    "Castillo-Elliott__0__1__Haacklee Herald.txt": {
+        "sentiment": 1.3392045796981351,
+        "length": 1444
+    },
+    "Castillo-Elliott__0__1__Lomark Daily.txt": {
+        "sentiment": 1.5323135589985832,
+        "length": 684
+    },
+    "Castillo-Elliott__0__1__The News Buoy.txt": {
+        "sentiment": 1.5133624960303043,
+        "length": 994
+    },
+    "Cervantes-Kramer__1__0__Haacklee Herald.txt": {
+        "sentiment": 1.7021036626902148,
+        "length": 1120
+    },
+    "Cervantes-Kramer__1__0__Lomark Daily.txt": {
+        "sentiment": 1.0,
+        "length": 1694
+    },
+    "Cervantes-Kramer__1__0__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 915
+    },
+    "Cervantes-Kramer__1__1__Haacklee Herald.txt": {
+        "sentiment": 2.0,
+        "length": 715
+    },
+    "Cervantes-Kramer__1__1__Lomark Daily.txt": {
+        "sentiment": 0.7410284236925901,
+        "length": 1679
+    },
+    "Cervantes-Kramer__1__1__The News Buoy.txt": {
+        "sentiment": 1.1662029971506203,
+        "length": 2656
+    },
+    "Cervantes-Kramer__2__0__Haacklee Herald.txt": {
+        "sentiment": 1.5525161880127076,
+        "length": 701
+    },
+    "Cervantes-Kramer__2__0__Lomark Daily.txt": {
+        "sentiment": 1.7014385019000784,
+        "length": 1206
+    },
+    "Cervantes-Kramer__2__0__The News Buoy.txt": {
+        "sentiment": 1.6515729981190732,
+        "length": 1370
+    },
+    "Cervantes-Kramer__2__1__Haacklee Herald.txt": {
+        "sentiment": 2.0,
+        "length": 986
+    },
+    "Cervantes-Kramer__2__1__Lomark Daily.txt": {
+        "sentiment": 1.0,
+        "length": 1157
+    },
+    "Cervantes-Kramer__2__1__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 1011
+    },
+    "Cisneros-Meyer__0__0__Haacklee Herald.txt": {
+        "sentiment": 2.0,
+        "length": 2211
+    },
+    "Cisneros-Meyer__0__0__Lomark Daily.txt": {
+        "sentiment": 1.147320822359067,
+        "length": 1569
+    },
+    "Cisneros-Meyer__0__0__The News Buoy.txt": {
+        "sentiment": 1.0,
+        "length": 1439
+    },
+    "Clark-Leon__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.79806442586741,
+        "length": 1997
+    },
+    "Clark-Leon__0__0__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 613
+    },
+    "Clark-Leon__0__0__The News Buoy.txt": {
+        "sentiment": 1.0,
+        "length": 1368
+    },
+    "Clark-Leon__0__1__Haacklee Herald.txt": {
+        "sentiment": 1.6462304925179194,
+        "length": 2243
+    },
+    "Clark-Leon__0__1__Lomark Daily.txt": {
+        "sentiment": 1.740212040824819,
+        "length": 1306
+    },
+    "Clarke, Scott and Sloan__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.4696753831251377,
+        "length": 1752
+    },
+    "Clarke, Scott and Sloan__0__0__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 2144
+    },
+    "Clarke, Scott and Sloan__0__0__The News Buoy.txt": {
+        "sentiment": 1.0,
+        "length": 1846
+    },
+    "Clements, Allen and Sullivan__0__0__Haacklee Herald.txt": {
+        "sentiment": 2.0,
+        "length": 1245
+    },
+    "Clements, Allen and Sullivan__0__0__Lomark Daily.txt": {
+        "sentiment": 1.4346905100494831,
+        "length": 1752
+    },
+    "Clements, Allen and Sullivan__0__0__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 2082
+    },
+    "Clements, Allen and Sullivan__0__1__Haacklee Herald.txt": {
+        "sentiment": 2.0,
+        "length": 884
+    },
+    "Collins, Johnson and Lloyd__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.6213138372496427,
+        "length": 1021
+    },
+    "Collins, Johnson and Lloyd__0__0__Lomark Daily.txt": {
+        "sentiment": 1.3457894511083572,
+        "length": 1050
+    },
+    "Collins, Johnson and Lloyd__0__0__The News Buoy.txt": {
+        "sentiment": 1.5379427554072194,
+        "length": 600
+    },
+    "Cook PLC__0__0__Haacklee Herald.txt": {
+        "sentiment": 2.0,
+        "length": 668
+    },
+    "Cook PLC__0__0__Lomark Daily.txt": {
+        "sentiment": 1.6662527990216416,
+        "length": 1255
+    },
+    "Cook PLC__0__0__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 1274
+    },
+    "Cooper, Holland and Nelson__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.6785096800782162,
+        "length": 2525
+    },
+    "Cooper, Holland and Nelson__0__0__Lomark Daily.txt": {
+        "sentiment": 1.4895802865098478,
+        "length": 1932
+    },
+    "Cooper, Holland and Nelson__0__0__The News Buoy.txt": {
+        "sentiment": 1.8844250717887305,
+        "length": 3260
+    },
+    "Craig Ltd__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.4518718204670906,
+        "length": 3503
+    },
+    "Craig Ltd__0__0__Lomark Daily.txt": {
+        "sentiment": 1.8856072002429025,
+        "length": 3564
+    },
+    "Craig Ltd__0__0__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 1497
+    },
+    "Craig Ltd__0__1__Haacklee Herald.txt": {
+        "sentiment": 1.8916328913946656,
+        "length": 2155
+    },
+    "Craig Ltd__0__1__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 1010
+    },
+    "Craig Ltd__0__1__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 946
+    },
+    "Cuevas PLC__0__0__Haacklee Herald.txt": {
+        "sentiment": 2.0,
+        "length": 1202
+    },
+    "Cuevas PLC__0__0__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 927
+    },
+    "Cuevas PLC__0__0__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 886
+    },
+    "Davis-Boyd__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.5305175697989142,
+        "length": 1562
+    },
+    "Davis-Boyd__0__0__Lomark Daily.txt": {
+        "sentiment": 1.3679559173024962,
+        "length": 1042
+    },
+    "Davis-Boyd__0__0__The News Buoy.txt": {
+        "sentiment": 1.3300142717278807,
+        "length": 1111
+    },
+    "Evans-Pearson__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.505924005354042,
+        "length": 1594
+    },
+    "Evans-Pearson__0__0__Lomark Daily.txt": {
+        "sentiment": 1.2588469389049979,
+        "length": 5358
+    },
+    "Evans-Pearson__0__0__The News Buoy.txt": {
+        "sentiment": 0.7277527938533359,
+        "length": 1482
+    },
+    "Evans-Pearson__0__1__Haacklee Herald.txt": {
+        "sentiment": 2.0,
+        "length": 1476
+    },
+    "Evans-Pearson__0__1__Lomark Daily.txt": {
+        "sentiment": 1.6758625834332712,
+        "length": 1028
+    },
+    "Evans-Pearson__0__1__The News Buoy.txt": {
+        "sentiment": 1.0,
+        "length": 1039
+    },
+    "Flores Ltd__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.7537127798596381,
+        "length": 3171
+    },
+    "Flores Ltd__0__0__Lomark Daily.txt": {
+        "sentiment": 1.5345835480316217,
+        "length": 1584
+    },
+    "Flores Ltd__0__0__The News Buoy.txt": {
+        "sentiment": 1.6479156482291328,
+        "length": 2922
+    },
+    "Franco-Stuart__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.0,
+        "length": 1752
+    },
+    "Franco-Stuart__0__0__Lomark Daily.txt": {
+        "sentiment": 0.998339030634979,
+        "length": 1030
+    },
+    "Franco-Stuart__0__0__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 997
+    },
+    "Franco-Stuart__0__1__Haacklee Herald.txt": {
+        "sentiment": 1.7396814175959487,
+        "length": 1043
+    },
+    "Franco-Stuart__0__1__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 848
+    },
+    "Franco-Stuart__0__1__The News Buoy.txt": {
+        "sentiment": 1.488288336875481,
+        "length": 663
+    },
+    "Frank Group__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.329805596670655,
+        "length": 1487
+    },
+    "Frank Group__0__0__Lomark Daily.txt": {
+        "sentiment": 1.0,
+        "length": 1653
+    },
+    "Frank Group__0__0__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 1129
+    },
+    "Frey Inc__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.7626056756889013,
+        "length": 1376
+    },
+    "Frey Inc__0__0__Lomark Daily.txt": {
+        "sentiment": -0.7982086215649367,
+        "length": 1492
+    },
+    "Frey Inc__0__0__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 1190
+    },
+    "Frey Inc__0__1__Haacklee Herald.txt": {
+        "sentiment": 2.0,
+        "length": 610
+    },
+    "Frey Inc__0__1__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 678
+    },
+    "Frey Inc__0__1__The News Buoy.txt": {
+        "sentiment": 1.6848408724068942,
+        "length": 1078
+    },
+    "Glover, Moran and Johnson__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.708229857126134,
+        "length": 2733
+    },
+    "Glover, Moran and Johnson__0__0__Lomark Daily.txt": {
+        "sentiment": 1.7850593053355484,
+        "length": 1738
+    },
+    "Glover, Moran and Johnson__0__0__The News Buoy.txt": {
+        "sentiment": 1.7743332789943853,
+        "length": 1724
+    },
+    "Greer-Holder__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.5346861828416642,
+        "length": 1988
+    },
+    "Greer-Holder__0__0__Lomark Daily.txt": {
+        "sentiment": 1.8229600461953412,
+        "length": 1892
+    },
+    "Greer-Holder__0__0__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 1137
+    },
+    "Harper Inc__0__0__Haacklee Herald.txt": {
+        "sentiment": 0.9332011558246446,
+        "length": 3208
+    },
+    "Harper Inc__0__0__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 957
+    },
+    "Harper Inc__0__0__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 711
+    },
+    "Harrell-Walters__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.0,
+        "length": 3323
+    },
+    "Harrell-Walters__0__0__Lomark Daily.txt": {
+        "sentiment": 1.7008930539367795,
+        "length": 4364
+    },
+    "Harrell-Walters__0__0__The News Buoy.txt": {
+        "sentiment": 1.645983152061818,
+        "length": 2335
+    },
+    "Harrell-Walters__0__1__Haacklee Herald.txt": {
+        "sentiment": 1.689393486554271,
+        "length": 1098
+    },
+    "Harrell-Walters__0__1__Lomark Daily.txt": {
+        "sentiment": 1.7083810380887106,
+        "length": 1115
+    },
+    "Harrell-Walters__0__1__The News Buoy.txt": {
+        "sentiment": 1.7178672227626677,
+        "length": 1231
+    },
+    "Harrington Inc__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.672567188030261,
+        "length": 1320
+    },
+    "Harrington Inc__0__0__Lomark Daily.txt": {
+        "sentiment": 1.6676878311171814,
+        "length": 1423
+    },
+    "Harrington Inc__0__0__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 1453
+    },
+    "Harrington Inc__0__1__Haacklee Herald.txt": {
+        "sentiment": 1.6734589677954865,
+        "length": 1298
+    },
+    "Harrington Inc__0__1__Lomark Daily.txt": {
+        "sentiment": 1.7224970206749946,
+        "length": 1114
+    },
+    "Harrington Inc__0__1__The News Buoy.txt": {
+        "sentiment": 0.17684683483891495,
+        "length": 829
+    },
+    "Henderson, Hall and Lutz__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.5581027133325869,
+        "length": 2708
+    },
+    "Henderson, Hall and Lutz__0__0__Lomark Daily.txt": {
+        "sentiment": 1.64822446114542,
+        "length": 1135
+    },
+    "Henderson, Hall and Lutz__0__0__The News Buoy.txt": {
+        "sentiment": 0.8370328013548248,
+        "length": 2265
+    },
+    "Henderson, Hall and Lutz__0__1__Haacklee Herald.txt": {
+        "sentiment": 1.770384751865878,
+        "length": 1463
+    },
+    "Henderson, Hall and Lutz__0__1__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 1199
+    },
+    "Henderson, Hall and Lutz__0__1__The News Buoy.txt": {
+        "sentiment": 1.7745913404908358,
+        "length": 1176
+    },
+    "Hernandez-Rojas__0__0__Haacklee Herald.txt": {
+        "sentiment": 2.0,
+        "length": 909
+    },
+    "Hernandez-Rojas__0__0__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 668
+    },
+    "Hernandez-Rojas__0__0__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 710
+    },
+    "Hines-Douglas__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.48468664767369,
+        "length": 1781
+    },
+    "Hines-Douglas__0__0__Lomark Daily.txt": {
+        "sentiment": 1.0,
+        "length": 1306
+    },
+    "Hines-Douglas__0__0__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 625
+    },
+    "Horn and Sons__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.8531557328782906,
+        "length": 1846
+    },
+    "Horn and Sons__0__0__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 732
+    },
+    "Horn and Sons__0__0__The News Buoy.txt": {
+        "sentiment": 1.8531959736206796,
+        "length": 1563
+    },
+    "Hughes-Clark__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.0,
+        "length": 1107
+    },
+    "Hughes-Clark__0__0__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 1122
+    },
+    "Hughes-Clark__0__0__The News Buoy.txt": {
+        "sentiment": 1.3363455170097747,
+        "length": 1294
+    },
+    "Hughes-Clark__0__1__Haacklee Herald.txt": {
+        "sentiment": 1.3213414544046127,
+        "length": 1154
+    },
+    "Hughes-Clark__0__1__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 1217
+    },
+    "Hughes-Clark__0__1__The News Buoy.txt": {
+        "sentiment": 1.5652427240826319,
+        "length": 621
+    },
+    "Jackson Inc__0__0__Haacklee Herald.txt": {
+        "sentiment": 2.0,
+        "length": 1488
+    },
+    "Jackson Inc__0__0__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 1255
+    },
+    "Jackson Inc__0__0__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 984
+    },
+    "Jones Group__0__0__Haacklee Herald.txt": {
+        "sentiment": -1.3162454186726014,
+        "length": 24621
+    },
+    "Jones Group__0__0__Haacklee Herald_Police.txt": {
+        "sentiment": -1.7620551667851003,
+        "length": 7170
+    },
+    "Jones Group__0__0__Lomark Daily.txt": {
+        "sentiment": -1.5641904016173946,
+        "length": 12476
+    },
+    "Jones Group__0__0__Lomark Daily_Police.txt": {
+        "sentiment": -1.9258945470851916,
+        "length": 8535
+    },
+    "Jones Group__0__0__The News Buoy.txt": {
+        "sentiment": -1.5423185326856839,
+        "length": 16828
+    },
+    "Jones Group__0__0__The News Buoy_Police.txt": {
+        "sentiment": -1.714732202100008,
+        "length": 5090
+    },
+    "Jones Group__0__1__Haacklee Herald.txt": {
+        "sentiment": -1.166178963641694,
+        "length": 714
+    },
+    "Jones Group__0__1__Haacklee Herald_Police.txt": {
+        "sentiment": -0.0787876997678636,
+        "length": 1213
+    },
+    "Jones Group__0__1__Lomark Daily.txt": {
+        "sentiment": -1.4625003901674516,
+        "length": 1547
+    },
+    "Jones Group__0__1__Lomark Daily_Police.txt": {
+        "sentiment": -0.3931766642522593,
+        "length": 1531
+    },
+    "Jones Group__0__1__The News Buoy.txt": {
+        "sentiment": -2.0,
+        "length": 1847
+    },
+    "Jones Group__0__1__The News Buoy_Police.txt": {
+        "sentiment": -0.8106817808574909,
+        "length": 1605
+    },
+    "Jones, Davis and Grant__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.5938219976145562,
+        "length": 2276
+    },
+    "Jones, Davis and Grant__0__0__Lomark Daily.txt": {
+        "sentiment": 1.7642452189587379,
+        "length": 1692
+    },
+    "Jones, Davis and Grant__0__0__The News Buoy.txt": {
+        "sentiment": 1.175487874118764,
+        "length": 2601
+    },
+    "Kelly-Smith__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.5312824667043963,
+        "length": 1948
+    },
+    "Kelly-Smith__0__0__Lomark Daily.txt": {
+        "sentiment": 1.8274552057312698,
+        "length": 2073
+    },
+    "Kelly-Smith__0__0__The News Buoy.txt": {
+        "sentiment": 1.3568118951652626,
+        "length": 1421
+    },
+    "Klein LLC__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.22242668237763,
+        "length": 1631
+    },
+    "Klein LLC__0__0__Lomark Daily.txt": {
+        "sentiment": 1.0,
+        "length": 2713
+    },
+    "Klein LLC__0__0__The News Buoy.txt": {
+        "sentiment": 1.335554157934855,
+        "length": 2607
+    },
+    "Lutz-Fleming__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.6260362205413976,
+        "length": 777
+    },
+    "Lutz-Fleming__0__0__Lomark Daily.txt": {
+        "sentiment": 1.7063030340776786,
+        "length": 1209
+    },
+    "Lutz-Fleming__0__0__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 1235
+    },
+    "Mann, Myers and Rivera__0__0__Haacklee Herald.txt": {
+        "sentiment": 2.0,
+        "length": 1404
+    },
+    "Mann, Myers and Rivera__0__0__Lomark Daily.txt": {
+        "sentiment": 1.4730243833058148,
+        "length": 2509
+    },
+    "Mann, Myers and Rivera__0__0__The News Buoy.txt": {
+        "sentiment": 1.851014931803989,
+        "length": 2566
+    },
+    "Martin LLC__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.4513432913069086,
+        "length": 2693
+    },
+    "Martin LLC__0__0__Lomark Daily.txt": {
+        "sentiment": 1.0,
+        "length": 645
+    },
+    "Martin LLC__0__0__The News Buoy.txt": {
+        "sentiment": 1.4123089569707092,
+        "length": 779
+    },
+    "Martinez-Le__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.275098530631427,
+        "length": 1841
+    },
+    "Martinez-Le__0__0__Lomark Daily.txt": {
+        "sentiment": 1.076898500192476,
+        "length": 1560
+    },
+    "Martinez-Le__0__0__The News Buoy.txt": {
+        "sentiment": -1.4525483831446055,
+        "length": 2093
+    },
+    "Mcgee and Sons__0__0__Haacklee Herald.txt": {
+        "sentiment": 2.0,
+        "length": 835
+    },
+    "Mcgee and Sons__0__0__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 1390
+    },
+    "Mcgee and Sons__0__0__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 1437
+    },
+    "Mcgee and Sons__0__1__Haacklee Herald.txt": {
+        "sentiment": 1.8507555200141776,
+        "length": 2469
+    },
+    "Mcgee and Sons__0__1__Lomark Daily.txt": {
+        "sentiment": 1.47971567560011,
+        "length": 5580
+    },
+    "Mcgee and Sons__0__1__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 1426
+    },
+    "Mclaughlin-Chandler__0__0__Haacklee Herald.txt": {
+        "sentiment": 0.8247670552708636,
+        "length": 2283
+    },
+    "Mclaughlin-Chandler__0__0__Lomark Daily.txt": {
+        "sentiment": 0.60355991190416,
+        "length": 3157
+    },
+    "Mclaughlin-Chandler__0__0__The News Buoy.txt": {
+        "sentiment": 1.2533602089768685,
+        "length": 1667
+    },
+    "Montoya Group__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.402082300279409,
+        "length": 2207
+    },
+    "Montoya Group__0__0__Lomark Daily.txt": {
+        "sentiment": 1.5911035223092231,
+        "length": 2584
+    },
+    "Montoya Group__0__0__The News Buoy.txt": {
+        "sentiment": 1.5226268358013866,
+        "length": 2043
+    },
+    "Moore-Simon__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.3422769492215267,
+        "length": 1270
+    },
+    "Moore-Simon__0__0__Lomark Daily.txt": {
+        "sentiment": 1.6043980733224628,
+        "length": 1114
+    },
+    "Moore-Simon__0__0__The News Buoy.txt": {
+        "sentiment": 1.0263352078165935,
+        "length": 1071
+    },
+    "Murphy, Marshall and Pope__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.4120622594268253,
+        "length": 1315
+    },
+    "Murphy, Marshall and Pope__0__0__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 834
+    },
+    "Murphy, Marshall and Pope__0__0__The News Buoy.txt": {
+        "sentiment": 1.6385397079894428,
+        "length": 1121
+    },
+    "Murray, Friedman and Wall__0__0__Haacklee Herald.txt": {
+        "sentiment": -0.3685681123267356,
+        "length": 1495
+    },
+    "Murray, Friedman and Wall__0__0__Haacklee Herald_Police.txt": {
+        "sentiment": -1.6039089608876251,
+        "length": 1989
+    },
+    "Murray, Friedman and Wall__0__0__Lomark Daily.txt": {
+        "sentiment": 1.0854805901726605,
+        "length": 1643
+    },
+    "Murray, Friedman and Wall__0__0__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 1616
+    },
+    "Namorna Transit Ltd__0__0__The News Buoy.txt": {
+        "sentiment": 1.435144203019265,
+        "length": 2978
+    },
+    "NyanzaRiver Worldwide AS__0__0__The News Buoy.txt": {
+        "sentiment": -1.2245022338989704,
+        "length": 2790
+    },
+    "Oka Seafood Shipping Ges.m.b.H.__0__0__The News Buoy.txt": {
+        "sentiment": -0.0179617301189275,
+        "length": 595
+    },
+    "Olsen Group__0__0__Haacklee Herald.txt": {
+        "sentiment": 2.0,
+        "length": 1260
+    },
+    "Olsen Group__0__0__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 1309
+    },
+    "Olsen Group__0__0__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 959
+    },
+    "Phelps, Brown and Wallace__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.7161509705181486,
+        "length": 1245
+    },
+    "Phelps, Brown and Wallace__0__0__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 1274
+    },
+    "Phelps, Brown and Wallace__0__0__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 940
+    },
+    "Phillips-Newton__0__0__Haacklee Herald.txt": {
+        "sentiment": 2.0,
+        "length": 895
+    },
+    "Phillips-Newton__0__0__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 1296
+    },
+    "Phillips-Newton__0__0__The News Buoy.txt": {
+        "sentiment": 1.1718709094177795,
+        "length": 3520
+    },
+    "PregolyaDredge Logistics Incorporated__0__0__The News Buoy.txt": {
+        "sentiment": 1.216030621613427,
+        "length": 2903
+    },
+    "Ramos-Shelton__0__0__Haacklee Herald.txt": {
+        "sentiment": 2.0,
+        "length": 1276
+    },
+    "Ramos-Shelton__0__0__Lomark Daily.txt": {
+        "sentiment": 1.5597613119540588,
+        "length": 693
+    },
+    "Ramos-Shelton__0__0__The News Buoy.txt": {
+        "sentiment": 1.1440809605409814,
+        "length": 1152
+    },
+    "Rasmussen, Nelson and King__0__0__Haacklee Herald.txt": {
+        "sentiment": -1.3021675603814125,
+        "length": 1449
+    },
+    "Rasmussen, Nelson and King__0__0__Haacklee Herald_Police.txt": {
+        "sentiment": -1.3804827991006112,
+        "length": 2345
+    },
+    "Rasmussen, Nelson and King__0__0__Lomark Daily.txt": {
+        "sentiment": 1.4279634028336499,
+        "length": 2387
+    },
+    "Rasmussen, Nelson and King__0__0__The News Buoy.txt": {
+        "sentiment": 1.6069791118022505,
+        "length": 1965
+    },
+    "Rasmussen, Nelson and King__0__1__Haacklee Herald.txt": {
+        "sentiment": -0.7892894251662059,
+        "length": 2125
+    },
+    "Rasmussen, Nelson and King__0__1__Haacklee Herald_Police.txt": {
+        "sentiment": 0.5820024825184189,
+        "length": 1140
+    },
+    "Rasmussen, Nelson and King__0__1__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 795
+    },
+    "Rasmussen, Nelson and King__0__1__The News Buoy.txt": {
+        "sentiment": 1.4934584394775974,
+        "length": 596
+    },
+    "Rhodes-Thompson__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.701355761695105,
+        "length": 1157
+    },
+    "Rhodes-Thompson__0__0__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 1117
+    },
+    "Rhodes-Thompson__0__0__The News Buoy.txt": {
+        "sentiment": 1.6058705256228891,
+        "length": 679
+    },
+    "Rhodes-Thompson__0__1__Haacklee Herald.txt": {
+        "sentiment": 1.6712172720012077,
+        "length": 1339
+    },
+    "Rivas-Stevens__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.2758648531876569,
+        "length": 1714
+    },
+    "Rivas-Stevens__0__0__Lomark Daily.txt": {
+        "sentiment": 1.2622766841118243,
+        "length": 1578
+    },
+    "Rivas-Stevens__0__0__The News Buoy.txt": {
+        "sentiment": 1.0,
+        "length": 4078
+    },
+    "Rosario-Melendez__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.6347718157705058,
+        "length": 1189
+    },
+    "Rosario-Melendez__0__0__Lomark Daily.txt": {
+        "sentiment": 1.695199207021563,
+        "length": 1316
+    },
+    "Rosario-Melendez__0__0__The News Buoy.txt": {
+        "sentiment": 1.3214613177168797,
+        "length": 2802
+    },
+    "Roth, Logan and Moreno__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.738772726540385,
+        "length": 1576
+    },
+    "Roth, Logan and Moreno__0__0__Lomark Daily.txt": {
+        "sentiment": 1.547734958745358,
+        "length": 1916
+    },
+    "Roth, Logan and Moreno__0__0__The News Buoy.txt": {
+        "sentiment": 1.5344767484738526,
+        "length": 1825
+    },
+    "Sanchez-Moreno__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.4129596156222344,
+        "length": 2252
+    },
+    "Sanchez-Moreno__0__0__Lomark Daily.txt": {
+        "sentiment": 1.5507256725918024,
+        "length": 2259
+    },
+    "Sanchez-Moreno__0__0__The News Buoy.txt": {
+        "sentiment": 1.3368378118873812,
+        "length": 1982
+    },
+    "Sanchez-Moreno__0__1__Haacklee Herald.txt": {
+        "sentiment": 1.6698322067347213,
+        "length": 1222
+    },
+    "Sanchez-Moreno__0__1__Lomark Daily.txt": {
+        "sentiment": 1.3719143750477452,
+        "length": 1043
+    },
+    "Sanchez-Moreno__0__1__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 1437
+    },
+    "Serrano-Cruz__0__0__Haacklee Herald.txt": {
+        "sentiment": 2.0,
+        "length": 1711
+    },
+    "Serrano-Cruz__0__0__Lomark Daily.txt": {
+        "sentiment": 1.6175712732552587,
+        "length": 887
+    },
+    "Serrano-Cruz__0__0__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 1371
+    },
+    "Smith-Hull__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.517064918190111,
+        "length": 652
+    },
+    "Smith-Hull__0__0__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 604
+    },
+    "Smith-Hull__0__0__The News Buoy.txt": {
+        "sentiment": 1.4593971107803785,
+        "length": 1182
+    },
+    "Solis-Lopez__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.8704112296945852,
+        "length": 2101
+    },
+    "Solis-Lopez__0__0__Lomark Daily.txt": {
+        "sentiment": 1.3081149145086823,
+        "length": 1714
+    },
+    "Solis-Lopez__0__0__The News Buoy.txt": {
+        "sentiment": 1.1824841833256503,
+        "length": 2072
+    },
+    "Solis-Lopez__0__1__Haacklee Herald.txt": {
+        "sentiment": 1.0,
+        "length": 557
+    },
+    "Solis-Lopez__0__1__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 1005
+    },
+    "Solis-Lopez__0__1__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 1165
+    },
+    "Spencer, Richards and Wilson__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.4694368740980306,
+        "length": 1668
+    },
+    "Spencer, Richards and Wilson__0__0__Lomark Daily.txt": {
+        "sentiment": 0.25757012017527836,
+        "length": 1924
+    },
+    "Spencer, Richards and Wilson__0__0__The News Buoy.txt": {
+        "sentiment": 1.3651058036110872,
+        "length": 1072
+    },
+    "Taylor, Prince and Sherman__0__0__Haacklee Herald.txt": {
+        "sentiment": 0.18918536826615037,
+        "length": 2750
+    },
+    "Taylor, Prince and Sherman__0__0__Lomark Daily.txt": {
+        "sentiment": 1.1119372813760526,
+        "length": 2201
+    },
+    "Taylor, Prince and Sherman__0__0__The News Buoy.txt": {
+        "sentiment": 1.6951939187946674,
+        "length": 2072
+    },
+    "Taylor, Prince and Sherman__0__1__Lomark Daily.txt": {
+        "sentiment": 0.5604137441711242,
+        "length": 881
+    },
+    "Taylor, Prince and Sherman__0__1__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 939
+    },
+    "Thomas-Weaver__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.7429586830820107,
+        "length": 1734
+    },
+    "Thomas-Weaver__0__0__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 983
+    },
+    "Thomas-Weaver__0__0__The News Buoy.txt": {
+        "sentiment": 1.0,
+        "length": 1145
+    },
+    "Thompson-Padilla__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.788698631289476,
+        "length": 1788
+    },
+    "Thompson-Padilla__0__0__Lomark Daily.txt": {
+        "sentiment": 1.7421738714233839,
+        "length": 2964
+    },
+    "Thompson-Padilla__0__0__The News Buoy.txt": {
+        "sentiment": 1.7632748423201516,
+        "length": 3126
+    },
+    "Turner-Green__0__0__Haacklee Herald.txt": {
+        "sentiment": 2.0,
+        "length": 898
+    },
+    "Turner-Green__0__0__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 1146
+    },
+    "Turner-Green__0__0__The News Buoy.txt": {
+        "sentiment": 1.6744644285679695,
+        "length": 1190
+    },
+    "Underwood Inc__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.7149803581998702,
+        "length": 1254
+    },
+    "Underwood Inc__0__0__Lomark Daily.txt": {
+        "sentiment": 1.8161501000520925,
+        "length": 1797
+    },
+    "Underwood Inc__0__0__The News Buoy.txt": {
+        "sentiment": 1.6866839896859176,
+        "length": 1526
+    },
+    "V. Miesel Shipping__0__0__The News Buoy.txt": {
+        "sentiment": 1.535615900821326,
+        "length": 1925
+    },
+    "Valdez, Dalton and Cook__0__0__Haacklee Herald.txt": {
+        "sentiment": 2.0,
+        "length": 957
+    },
+    "Valdez, Dalton and Cook__0__0__Lomark Daily.txt": {
+        "sentiment": 2.0,
+        "length": 718
+    },
+    "Valdez, Dalton and Cook__0__0__The News Buoy.txt": {
+        "sentiment": 1.6803701794612342,
+        "length": 1253
+    },
+    "Vargas-Jensen__0__0__Haacklee Herald.txt": {
+        "sentiment": 0.3291300837371608,
+        "length": 2896
+    },
+    "Vargas-Jensen__0__0__Lomark Daily.txt": {
+        "sentiment": 1.6064340298671416,
+        "length": 991
+    },
+    "Vargas-Jensen__0__0__The News Buoy.txt": {
+        "sentiment": 1.2902739175995626,
+        "length": 2066
+    },
+    "Vasquez, Chaney and Martinez__0__0__Haacklee Herald.txt": {
+        "sentiment": -0.0536170834955892,
+        "length": 2565
+    },
+    "Vasquez, Chaney and Martinez__0__0__Lomark Daily.txt": {
+        "sentiment": 1.7490679077214077,
+        "length": 2036
+    },
+    "Vasquez, Chaney and Martinez__0__0__The News Buoy.txt": {
+        "sentiment": 1.5035358490168687,
+        "length": 4233
+    },
+    "Walker, Erickson and Blake__0__0__Haacklee Herald.txt": {
+        "sentiment": 2.0,
+        "length": 1367
+    },
+    "Walker, Erickson and Blake__0__0__Lomark Daily.txt": {
+        "sentiment": 1.3936935173554608,
+        "length": 1378
+    },
+    "Walker, Erickson and Blake__0__0__The News Buoy.txt": {
+        "sentiment": 1.5782363421557006,
+        "length": 1938
+    },
+    "Watson-Gray__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.8369932960628488,
+        "length": 2535
+    },
+    "Watson-Gray__0__0__Lomark Daily.txt": {
+        "sentiment": 1.19423933393862,
+        "length": 4670
+    },
+    "Watson-Gray__0__0__The News Buoy.txt": {
+        "sentiment": 1.455621664221944,
+        "length": 1348
+    },
+    "Watson-Gray__0__1__Haacklee Herald.txt": {
+        "sentiment": 2.0,
+        "length": 624
+    },
+    "Watson-Gray__0__1__Lomark Daily.txt": {
+        "sentiment": 1.6018939168311046,
+        "length": 2739
+    },
+    "Watson-Gray__0__1__The News Buoy.txt": {
+        "sentiment": 2.0,
+        "length": 703
+    },
+    "Wilcox-Nelson__0__0__Haacklee Herald.txt": {
+        "sentiment": -1.0808131373177787,
+        "length": 1254
+    },
+    "Wilcox-Nelson__0__0__Haacklee Herald_Police.txt": {
+        "sentiment": -0.6018647865607752,
+        "length": 1530
+    },
+    "Wilcox-Nelson__0__0__Lomark Daily.txt": {
+        "sentiment": 1.6014415592923252,
+        "length": 2243
+    },
+    "Wilcox-Nelson__0__0__The News Buoy.txt": {
+        "sentiment": 1.6051207122989064,
+        "length": 3087
+    },
+    "Wu-Hart__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.3214528872803708,
+        "length": 1607
+    },
+    "Wu-Hart__0__0__Lomark Daily.txt": {
+        "sentiment": 1.2162012229028394,
+        "length": 4017
+    },
+    "Wu-Hart__0__0__The News Buoy.txt": {
+        "sentiment": 0.739612079020954,
+        "length": 1195
+    },
+    "York-Castillo__0__0__Haacklee Herald.txt": {
+        "sentiment": 1.3597143182599978,
+        "length": 1166
+    },
+    "York-Castillo__0__0__Lomark Daily.txt": {
+        "sentiment": 1.543907058178595,
+        "length": 827
+    },
+    "York-Castillo__0__0__The News Buoy.txt": {
+        "sentiment": 0.7085733736949712,
+        "length": 616
+    }
+}
