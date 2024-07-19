@@ -1461,12 +1461,13 @@ mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-US" lang="EN-US"><o:p>&nbsp
     <h3 class="myheader"> Video </h3>
     <p class="myp">
 
-        <a href="https://youtu.be/4KBRGrnyBuE"> <b> https://youtu.be/4KBRGrnyBuE</b></a>
+        <a href="https://www.youtube.com/watch?v=0u-Xn2sVYBc" target="_blank"> <b>
+            https://www.youtube.com/watch?v=0u-Xn2sVYBc</b></a>
     </p>
 
     <h3 class="myheader"> Our Tool </h3>
     <p class="myp">
-        <a href="https://mc1.vast24.dbvis.de/">https://mc1.vast24.dbvis.de/</a>
+        <a href="https://mc1.vast24.dbvis.de/" target="_blank">https://mc1.vast24.dbvis.de/</a>
     </p>
 
 
@@ -1530,12 +1531,37 @@ mso-ansi-language:EN-US" lang="EN-US"><o:p>&nbsp;</o:p></span>
         </span>
 
     <p class="answer">
-        Test
+        Our investigation into bias across news sources revealed a complex landscape of information
+        distortion over time. We define bias as the discrepancy between facts present in the knowledge
+        graph and those present in news articles. We employ LLM-based extraction for news articles to
+        quantify this and compare the results with the knowledge graph. We compute our bias score as the
+        fraction of facts appearing in both sources relative to the total unique facts.
     </p>
 
     <img src="VAST2024-UKON-Buchmueller-MC1_files/images/fig1.png">
     <p class="subtitle">
-        <span>Figure 1 -</span> One of our dashboards.
+        <span>Figure 1 -</span> The first of our two dashboards with task related parts highlighted.
+    </p>
+
+    <p class="answer">
+        The analysis uncovers pervasive bias across all event types, with some categories more susceptible
+        than others. Notably, facts extracted from reports on critiques and convictions showed heightened
+        bias levels throughout the observed period, suggesting FishEye analysts or the algorithms used are
+        particularly prone to subjective interpretation or selective extraction concerning these topics.
+        Likewise, facts extracted about fishing and communication are affected by the same heightened bias
+        levels. Although there is some more variation in these levels. Conversely, facts extracted for
+        sustainable fishing, aid provided, and conferences are less affected by bias.
+    </p>
+
+    <img src="VAST2024-UKON-Buchmueller-MC1_files/images/fig2.png">
+    <p class="subtitle">
+        <span>Figure 2 -</span> The same dashboard configured to show the bias of the algorithms across time.
+    </p>
+
+    <p class="answer">
+        Besides, we observe that both LLM-based extraction algorithms, ShadGPT and BassLine,
+        consistently introduce bias throughout the entire period under study.
+        More concerning was the discovery that the bias in fact extraction intensified over time for both algorithms.
     </p>
 
 
@@ -1559,9 +1585,40 @@ mso-ansi-language:EN-US" lang="EN-US"><o:p>&nbsp;</o:p></span>
         </span>
 
     <p class="answer">
-
+        Our comparative analysis of the two LLM extraction algorithms, ShadGPT and BassLine, unveiled
+        intriguing patterns in their application. Both algorithms are equally utilized in fact extraction,
+        suggesting a general trust in their capabilities without selection bias across the analysts. However,
+        our investigation revealed distinct specializations and potential biases in their usage.
     </p>
 
+    <img src="VAST2024-UKON-Buchmueller-MC1_files/images/fig3.png">
+    <p class="subtitle">
+        <span>Figure 3 -</span> The second dashboard highlighting companies with limited amounts of articles provided.
+        They are grouped in threes reflecting the distinct news sources.
+    </p>
+
+    <p class="answer">
+        A striking observation was the almost exclusive reliance on ShadGPT for articles about specific companies,
+        namely Collins, Johnson and Lloyd, Greer-Hold, Smith-Hull, and Underwood Inc.
+        In these cases, ShadGPT's primary focus centered on certificate issuance and applause suggesting a positive
+        sentiment.
+        This raises questions about the comprehensiveness of the extracted data for these subjects.
+    </p>
+
+    <img src="VAST2024-UKON-Buchmueller-MC1_files/images/fig4.png">
+    <p class="subtitle">
+        <span>Figure 4 -</span> The same dashboard providing insight into the text-size differences between the
+        versions.
+    </p>
+
+
+    <p class="answer">
+        The analysis also uncovered an interesting discrepancy in sentiment extraction.
+        When ShadGPT was used as the sole extraction tool for articles about Martinez-Le, it consistently produced a
+        negative sentiment.
+        This stood in stark contrast to the sentiments derived from other news sources,
+        suggesting a potential bias in ShadGPT's interpretation of information related to this specific company.
+    </p>
 
     <!-- 3 ############################################################################################################################## 3 -->
 
@@ -1580,10 +1637,45 @@ mso-ansi-language:EN-US" lang="EN-US"><o:p>&nbsp;</o:p></span>
     <br>
 
     <span class="counter answer">
-        
-        </span>
+
+    </span>
 
     <p class="answer">
+        Our visual analytics examination of potential analyst bias revealed a nuanced picture of human involvement in
+        the fact extraction process.
+        On a broad level, we found that human analysts generally demonstrated comprehensive coverage, analyzing a wide
+        range of articles from various journals across the entire landscape of companies.
+        This diversity in coverage suggests a commendable effort to maintain a holistic view of the information
+        landscape.
+    </p>
+
+    <img src="VAST2024-UKON-Buchmueller-MC1_files/images/fig5.png">
+    <p class="subtitle">
+        <span>Figure 5 -</span> The second dashboard with arrows pointing towards articles about companies with only a
+        single analyst extracting information.
+    </p>
+
+    <p class="answer">
+        However, upon closer inspection, we uncovered notable instances of analyst specialization, which could be
+        interpreted as a form of bias.
+        Certain analysts showed a marked preference for specific companies or topics.
+        For instance, the trio of Niklaus Oberon, Jack Inch, and Clepper Jessen emerged as the primary contributors of
+        information about Collins, Johnson and Lloyd,
+        far outpacing other analysts in their focus on this company (refer to the middle arrow).
+        <br>
+        <br>
+        Similarly, we observed that Worf Peer, Haenyeo Hyun-Ki, and Jack Inch were responsible for extracting the
+        majority of knowledge about Bishop-Hernandez (refer to the left arrow).
+        This concentration of expertise could lead to more in-depth insights but also raises concerns about the
+        diversity of perspectives on these particular companies.
+        We stumble upon similar constellations for other companies such as Frank Group, Greer-Holder, and Underwood Inc.
+        Companies that already caught our attention when analyzing bias toward positive sentiment and specific topics.
+        <br>
+        <br>
+        Perhaps the most striking example of specialization was Pelagea Alethea Mordoch,
+        who stood out as the sole analyst writing about Oka Seafood Shipping (refer to the right arrow).
+        While this exclusivity might indicate deep expertise,
+        it also presents a risk of a single-perspective bias in the information about this company.
 
     </p>
 
@@ -1608,6 +1700,56 @@ mso-ansi-language:EN-US" lang="EN-US"><o:p>&nbsp;</o:p></span>
         </span>
 
     <p class="answer">
+        Our investigation into unreliable actors and hidden connections within the news ecosystem revealed several
+        concerning discrepancies and potential biases.
+        We uncovered potential family connections that could introduce bias, with multiple individuals sharing the
+        surnames "Conti" and "Park" in the nodes of the knowledge graph.
+        These relationships might signify hidden influences or conflicts of interest that warrant further scrutiny.
+    </p>
+
+    <img src="VAST2024-UKON-Buchmueller-MC1_files/images/fig6.png">
+    <p class="subtitle">
+        <span>Figure 6 -</span> The second dashboard with companies highlighted where the sources differ in their
+        sentiment.
+    </p>
+
+    <p class="answer">
+        Analysis of news sources revealed notable biases, particularly with Lomark Daily often presenting more negative
+        sentiments compared to other outlets.
+        In one instance involving Frey Inc., Lomark Daily appeared to censor crucial details, drastically altering the
+        sentiment from negative to positive (refer to 1 marked in Figure 6).
+        This manipulation of information is deeply concerning and undermines the credibility of the source.
+    </p>
+
+    <img src="VAST2024-UKON-Buchmueller-MC1_files/images/fig7.png">
+    <p class="subtitle">
+        <span>Figure 7 -</span> A search conducted in a text editor highlighting a name that's only found in the
+        articles but which analysts omitted from the knowledge graph.
+    </p>
+
+    <p class="answer">
+        A glaring inconsistency also emerged with the company Eaton-Osborne,
+        mentioned 78 times in news articles yet conspicuously absent from the human-extracted knowledge graph.
+        If that company is not part of Osborne and Sons, its omission raises significant questions about the
+        completeness and reliability of the knowledge graph.
+    </p>
+
+    <img src="VAST2024-UKON-Buchmueller-MC1_files/images/fig8.png">
+    <p class="subtitle">
+        <span>Figure 8 -</span> The second dashboard showing more shifts in sentiment from the news sources.
+    </p>
+
+    <p class="answer">
+        Generally, we observed consistency in sentiments across different versions of articles, with some exceptions.
+        News Bouy, for instance, showed a dramatic shift in sentiment regarding Brown, Clarke and Martinez, while
+        Haacklee Harald and Lomark Daily demonstrated less extreme sentiments for certain companies.
+        <br>
+        <br>
+        Perhaps most alarming was the discovery of questionable additions to the knowledge graph.
+        New edges, typically representing transactions and communications, sometimes included incidents of overfishing,
+        convictions, and certificate summons that were absent from actual reports.
+        This discrepancy raises serious concerns about the integrity of the data and the potential for fabricated or
+        misrepresented information.
 
     </p>
 
