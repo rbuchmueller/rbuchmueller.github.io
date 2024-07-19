@@ -2,29 +2,17 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Bias Matrix</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Theme River Visualization</title>
     <style>
         .chart-container {
             width: 100%;
-            height: 800px;
+            height: 80vh;
         }
-        .tooltip {
-            position: absolute;
-            text-align: center;
-            width: 120px;
-            height: auto;
-            padding: 5px;
-            background: lightsteelblue;
-            border: 0px;
-            border-radius: 8px;
-            pointer-events: none;
-            visibility: hidden;
-        }
-        .legend {
+        #legend {
             display: flex;
             flex-wrap: wrap;
-            align-items: center;
-            margin-top: 20px;
+            margin-top: 10px;
         }
         .legend-item {
             display: flex;
@@ -39,6 +27,9 @@
     </style>
 </head>
 <body>
+    <div class="chart-container">
+        <svg id="themeRiverChart"></svg>
+    </div>
     <div>
         <label for="dimension-select">Select Dimension:</label>
         <select id="dimension-select">
@@ -56,13 +47,8 @@
             <option value="analyst">Analyst</option>
         </select>
     </div>
-    <div class="chart-container">
-        <svg id="biasMatrix"></svg>
-    </div>
-    <div class="tooltip"></div>
     <div id="legend"></div>
-
     <script src="https://d3js.org/d3.v6.min.js"></script>
-    <script src="js/biasMatrix.js"></script>
+    <script src="js/themeRiver.js"></script>
 </body>
 </html>
