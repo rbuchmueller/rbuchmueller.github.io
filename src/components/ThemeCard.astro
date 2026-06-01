@@ -1,0 +1,24 @@
+---
+const { title, text, image, tags = [], actions = [] } = Astro.props;
+const visibleTags = tags.slice(0, 2);
+---
+
+<article class="theme-card">
+  <span class="theme-card-image">
+    <img src={image} alt="" loading="lazy" />
+  </span>
+  <div>
+    <ul class="tags keyword-tags" aria-label="Keywords">
+      {visibleTags.map((tag) => <li>{tag}</li>)}
+    </ul>
+    <h3>{title}</h3>
+    <p class="theme-card-summary">{text}</p>
+    {actions.length ? (
+      <ul class="tool-links" aria-label="Tools and external links">
+        {actions.map((action) => (
+          <li><a href={action.link}>{action.label}</a></li>
+        ))}
+      </ul>
+    ) : null}
+  </div>
+</article>

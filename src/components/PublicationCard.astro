@@ -1,0 +1,10 @@
+---
+const { title, venue, year, text, link } = Astro.props;
+---
+
+<article class="publication">
+  <p class="pub-meta">{venue} · {year}</p>
+  <h3>{title}</h3>
+  <p>{text}</p>
+  {link && <a href={link}>Publication page</a>}
+</article>

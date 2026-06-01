@@ -1,17 +1,85 @@
 ---
-
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Header from "../components/Header.astro";
+import ThemeCard from "../components/ThemeCard.astro";
+import { themes } from "../data/themes";
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<BaseLayout title="Raphael Buchmüller">
+  <Header />
+
+  <main class="home-page">
+    <div class="background-backdrop" aria-hidden="true"></div>
+
+    <section class="home-hero">
+      <div class="home-intro">
+        <h1>Hi, I am a researcher in visual analytics and human-AI interaction.</h1>
+        <p class="lead">
+          I am at the <a href="https://www.cvast.tuwien.ac.at/team/raphael-buchmueller">CVAST lab</a>
+          and employed in the <a href="https://www.bilateral-ai.net/home">Bilateral AI Cluster</a> at TU Wien.
+          Earlier, I was part of the <a href="https://www.vis.uni-konstanz.de/mitglieder/rbuchmueller">DBVIS group</a>
+          at the University of Konstanz.
+          I am interested in heterogeneous data, network analysis, geographical data science,
+          the digital humanities, and explainable AI.
+        </p>
+        <p class="intro-note">
+          Reach out if you would like to discuss research ideas, collaborations, or thesis supervision.
+        </p>
+      </div>
+
+      <aside class="profile profile-home" aria-label="Profile and contact">
+        <img src="/profile.png" alt="Portrait of Raphael Buchmüller" />
+        <h2>Raphael Buchmüller</h2>
+        <p class="profile-role">Academic Researcher</p>
+
+        <div class="profile-contact" aria-label="Contact">
+          <a href="mailto:raphael.buchmueller@tuwien.ac.at" aria-label="Email">
+            <span class="icon mail-icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24"><path d="M4 6h16v12H4z" /><path d="m4.5 7 7.5 6 7.5-6" /></svg>
+            </span>
+          </a>
+        </div>
+
+        <div class="profile-icons" aria-label="Academic and professional profiles">
+          <a href="https://scholar.google.de/citations?hl=en&oi=ao&user=5ltKi4wAAAAJ" aria-label="Google Scholar">
+            <span class="icon scholar-icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24"><path d="M12 3 2.8 9l9.2 6 9.2-6L12 3Z" /><path d="M6.5 12.1v4.2c1.4 1.2 3.2 1.9 5.5 1.9s4.1-.7 5.5-1.9v-4.2" /></svg>
+            </span>
+          </a>
+          <a href="https://de.linkedin.com/in/raphael-buchm%C3%BCller-b5699b183" aria-label="LinkedIn">
+            <span class="icon linkedin-icon" aria-hidden="true">in</span>
+          </a>
+          <a href="https://orcid.org/0000-0002-0612-8828" aria-label="ORCID">
+            <span class="icon logo-icon" aria-hidden="true">
+              <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="" />
+            </span>
+          </a>
+          <a href="https://dblp.org/pid/247/4678" aria-label="DBLP">
+            <span class="icon logo-icon" aria-hidden="true">
+              <img src="https://cdn.simpleicons.org/dblp/004F9F" alt="" />
+            </span>
+          </a>
+        </div>
+      </aside>
+    </section>
+
+    <section class="home-section compact-fields" aria-labelledby="research-fields">
+      <div class="section-head">
+        <h2 id="research-fields">Research fields</h2>
+      </div>
+      <div class="field-grid">
+        {themes.slice(0, 5).map((theme) => <ThemeCard {...theme} />)}
+      </div>
+    </section>
+
+    <div class="bottom-logos" aria-label="Affiliations and funding">
+      <a href="https://www.cvast.tuwien.ac.at/team/raphael-buchmueller">
+        <img src="https://www.cvast.tuwien.ac.at/themes/cvast/css/images/logo.png" alt="CVAST" />
+      </a>
+      <a href="https://www.bilateral-ai.net/home">
+        <img src="/bilai-logo.png" alt="Bilateral AI" />
+      </a>
+      <a class="fwf-mark" href="https://www.fwf.ac.at/entdecken/excellentaustria/clusters-of-excellence">FWF</a>
+    </div>
+  </main>
+</BaseLayout>
