@@ -1311,6 +1311,9 @@ p {
 
   .background-backdrop {
     width: 74vw;
+    background-image:
+      linear-gradient(90deg, rgba(246, 243, 238, 0) 0%, rgba(246, 243, 238, 0.34) 24%, rgba(246, 243, 238, 0.92) 58%, rgba(246, 243, 238, 1)),
+      url("/files/background.jpg");
     opacity: 0.78;
   }
 
@@ -1381,16 +1384,25 @@ p {
 
   .top-logos,
   .bottom-logos {
-    justify-content: flex-start;
-    gap: 18px;
-    overflow-x: auto;
+    justify-content: center;
+    gap: 22px;
+    overflow-x: visible;
     padding-top: 14px;
   }
 
   .top-logos img,
   .bottom-logos img {
-    max-width: 120px;
-    max-height: 32px;
+    width: 88px;
+    max-width: 88px;
+    height: 28px;
+    max-height: 28px;
+    object-fit: contain;
+  }
+
+  .bottom-logos .fwf-mark {
+    width: 88px;
+    font-size: 1rem;
+    text-align: center;
   }
 
   .hero {
@@ -1412,12 +1424,73 @@ p {
 
   .field-grid {
     grid-template-columns: 1fr;
+    gap: 12px;
   }
 
   .field-grid .theme-card,
   .field-grid .theme-card:nth-child(4),
   .field-grid .theme-card:nth-child(5) {
     grid-column: auto;
+  }
+
+  .field-grid .theme-card {
+    grid-template-columns: 42% 58%;
+    height: 112px;
+  }
+
+  .field-grid .theme-card .theme-card-image {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .field-grid .theme-card .theme-card-image::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0) 56%, var(--accent-soft));
+    pointer-events: none;
+  }
+
+  .field-grid .theme-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: center;
+  }
+
+  .compact-fields .theme-card div {
+    height: 112px;
+    padding: 9px 10px;
+  }
+
+  .compact-fields .theme-card h3 {
+    margin-top: 5px;
+    font-size: 0.95rem;
+  }
+
+  .compact-fields .keyword-tags {
+    gap: 4px;
+  }
+
+  .compact-fields .keyword-tags li {
+    padding: 2px 5px;
+    font-size: 0.56rem;
+  }
+
+  .tool-links {
+    gap: 4px;
+  }
+
+  .tool-links a {
+    min-height: 21px;
+    padding: 0 7px;
+    font-size: 0.6rem;
+  }
+
+  .compact-fields .theme-card-summary {
+    left: 8px;
+    right: 8px;
+    font-size: 0.68rem;
   }
 
   .section-head {
