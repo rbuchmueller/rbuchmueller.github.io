@@ -489,9 +489,10 @@ p {
   position: relative;
   display: grid;
   grid-template-columns: minmax(0, 62%) minmax(0, 38%);
+  grid-template-rows: 146px auto;
   grid-column: span 2;
   align-items: stretch;
-  height: 146px;
+  min-height: 146px;
   color: inherit;
   text-decoration: none;
   border-color: rgba(222, 215, 202, 0.42);
@@ -635,6 +636,43 @@ p {
 
 .tool-links a:hover {
   background: #1b7e66;
+}
+
+.selected-publications {
+  grid-column: 1 / -1;
+  padding: 10px 12px 11px;
+  border-top: 1px solid rgba(222, 215, 202, 0.78);
+  background: rgba(255, 255, 255, 0.78);
+}
+
+.selected-publications h4 {
+  margin: 0 0 6px;
+  color: var(--accent);
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.selected-publications ul {
+  display: grid;
+  gap: 4px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.selected-publications a {
+  display: block;
+  color: var(--text);
+  font-size: 0.78rem;
+  font-weight: 650;
+  line-height: 1.22;
+  text-decoration: none;
+}
+
+.selected-publications a:hover {
+  color: var(--accent);
 }
 
 .field-grid .theme-card:nth-child(4) {
@@ -1435,7 +1473,8 @@ p {
 
   .field-grid .theme-card {
     grid-template-columns: 42% 58%;
-    height: 112px;
+    grid-template-rows: 112px auto;
+    min-height: 112px;
   }
 
   .field-grid .theme-card .theme-card-image {
@@ -1491,6 +1530,19 @@ p {
     left: 8px;
     right: 8px;
     font-size: 0.68rem;
+  }
+
+  .selected-publications {
+    padding: 8px 10px 9px;
+  }
+
+  .selected-publications h4 {
+    margin-bottom: 5px;
+    font-size: 0.6rem;
+  }
+
+  .selected-publications a {
+    font-size: 0.7rem;
   }
 
   .section-head {

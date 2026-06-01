@@ -1,5 +1,5 @@
 ---
-const { title, text, image, tags = [], actions = [] } = Astro.props;
+const { title, text, image, tags = [], actions = [], selectedPublications = [] } = Astro.props;
 const visibleTags = tags.slice(0, 2);
 ---
 
@@ -21,4 +21,14 @@ const visibleTags = tags.slice(0, 2);
       </ul>
     ) : null}
   </div>
+  {selectedPublications.length ? (
+    <section class="selected-publications" aria-label={`Selected publications for ${title}`}>
+      <h4>Selected publications</h4>
+      <ul>
+        {selectedPublications.map((publication) => (
+          <li><a href={publication.link}>{publication.title}</a></li>
+        ))}
+      </ul>
+    </section>
+  ) : null}
 </article>

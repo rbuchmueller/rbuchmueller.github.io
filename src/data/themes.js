@@ -22,7 +22,17 @@ export const themes = [
       { label: "CUEPAQ project", link: "https://scikon.uni-konstanz.de/en/projects?cHash=6871ea77a7be8e4bd18b4136e094e319&tx_scikonportal_pi4%5Baction%5D=profile&tx_scikonportal_pi4%5Bcontroller%5D=Project&tx_scikonportal_pi4%5Bid%5D=3209" }
     ],
     actions: [
-      { label: "Project", link: "https://informatics.tuwien.ac.at/orgs/e193-07" }
+      { label: "Project", link: "https://www.cvast.tuwien.ac.at/projects/artvis" }
+    ],
+    selectedPublications: [
+      {
+        title: "Visual Bias Detection for Illegal Fishing",
+        link: "https://scibib.dbvis.de/publications/view/1070"
+      },
+      {
+        title: "PraK Tool V3",
+        link: "https://bib.dbvis.de/publications/view/1076"
+      }
     ]
   },
   {
@@ -47,8 +57,15 @@ export const themes = [
     resources: [
       { label: "LangLasso demo", link: "https://langlasso.vercel.app" }
     ],
-    actions: [
-      { label: "Paper", link: "https://arxiv.org/abs/2601.10458" }
+    selectedPublications: [
+      {
+        title: "cPro: Circular Projections",
+        link: "https://diglib.eg.org/items/dd5739a1-76da-406f-ab48-65ed16c9db65"
+      },
+      {
+        title: "Preference Models with Visual Analytics",
+        link: "https://diglib.eg.org/handle/10.2312/mlvis20241127"
+      }
     ]
   },
   {
@@ -76,8 +93,17 @@ export const themes = [
     ],
     actions: [
       { label: "Project", link: "https://www.cvast.tuwien.ac.at/projects/bilai" },
-      { label: "Tool", link: "https://langlasso.vercel.app" },
-      { label: "Paper", link: "https://arxiv.org/abs/2601.10458" }
+      { label: "Tool", link: "https://langlasso.vercel.app" }
+    ],
+    selectedPublications: [
+      {
+        title: "LangLasso",
+        link: "https://arxiv.org/abs/2601.10458"
+      },
+      {
+        title: "Visual Bias Detection for Illegal Fishing",
+        link: "https://scibib.dbvis.de/publications/view/1070"
+      }
     ]
   },
   {
@@ -103,8 +129,13 @@ export const themes = [
       { label: "CVAST publication page", link: "https://www.cvast.tuwien.ac.at/bibcite/reference/708" }
     ],
     actions: [
-      { label: "Project", link: "https://www.bilateral-ai.net/home" },
-      { label: "Paper", link: "https://www.cvast.tuwien.ac.at/bibcite/reference/708" }
+      { label: "Project", link: "https://www.bilateral-ai.net/home" }
+    ],
+    selectedPublications: [
+      {
+        title: "GLANCE",
+        link: "https://www.cvast.tuwien.ac.at/bibcite/reference/708"
+      }
     ]
   },
   {
@@ -129,8 +160,15 @@ export const themes = [
     resources: [
       { label: "SkiVis preprint", link: "https://scibib.dbvis.de/uploadedFiles/SkiVis_2023_VIS__preprint.pdf" }
     ],
-    actions: [
-      { label: "Paper", link: "https://arxiv.org/abs/2307.08570" }
+    selectedPublications: [
+      {
+        title: "SkiVis",
+        link: "https://arxiv.org/abs/2307.08570"
+      },
+      {
+        title: "Categorical Colorschemes",
+        link: "https://repositum.tuwien.at/handle/20.500.12708/224543"
+      }
     ]
   },
   {
@@ -157,8 +195,13 @@ export const themes = [
       { label: "Markus Schedl", link: "https://www.mschedl.eu/" }
     ],
     actions: [
-      { label: "Paper", link: "https://diglib.eg.org/items/992a66bc-a804-47d2-968c-a1f7dc87cb21" },
       { label: "Context", link: "https://elisabethlex.info/" }
+    ],
+    selectedPublications: [
+      {
+        title: "Preference Models with Visual Analytics",
+        link: "https://diglib.eg.org/handle/10.2312/mlvis20241127"
+      }
     ]
   }
 ];
