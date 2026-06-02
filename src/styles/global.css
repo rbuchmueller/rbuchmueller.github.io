@@ -32,15 +32,21 @@ a {
   position: sticky;
   top: 0;
   z-index: 30;
-  width: auto;
-  margin: 0 0 0 max(16px, calc((100vw - 1180px) / 2));
-  padding: 14px max(16px, calc((100vw - 1180px) / 2)) 8px 0;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(90deg, transparent 0, transparent max(16px, calc((100vw - 1180px) / 2)), rgba(246, 243, 238, 0.82) max(16px, calc((100vw - 1180px) / 2)));
+  backdrop-filter: blur(10px);
+}
+
+.site-header-inner {
+  width: min(1180px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 14px 0 8px;
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 24px;
-  background: rgba(246, 243, 238, 0.86);
-  backdrop-filter: blur(10px);
 }
 
 .brand {
@@ -1433,11 +1439,17 @@ p {
 
 @media (max-width: 620px) {
   .site-header {
-    width: auto;
-    margin-left: 12px;
+    width: 100%;
+    margin-left: 0;
+    padding: 0;
+    background: rgba(246, 243, 238, 0.72);
+  }
+
+  .site-header-inner {
+    width: 100%;
     align-items: center;
     flex-direction: row;
-    padding: 10px 12px 8px 0;
+    padding: 10px 12px 8px;
     gap: 12px;
   }
 
