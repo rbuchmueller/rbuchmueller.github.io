@@ -26,7 +26,11 @@ const visibleTags = tags.slice(0, 2);
       <h4>Selected publications</h4>
       <ul>
         {selectedPublications.map((publication) => (
-          <li><a href={publication.link}>{publication.title}</a></li>
+          <li>
+            <a href={publication.link}>{publication.title}</a>
+            <span>{publication.authors}</span>
+            <small>{publication.venue}</small>
+          </li>
         ))}
       </ul>
     </section>
