@@ -120,12 +120,17 @@ export const themes = [
   },
   {
     slug: "co-active-machine-learning",
-    title: "Co-active ML",
+    title: "Neurosymbolic ML",
     image: "/figures/glance.png",
     figures: ["/figures/glance.png", "/figures/langlasso.png", "/figures/cpro.png"],
     text: "Human and model in the loop: feedback, revision, and analytic steering.",
     tags: ["feedback", "steering", "revision"],
     publications: [
+      {
+        title: "Seeing the Shift: Keep an Eye on Semantic Changes in Times of LLMs",
+        meta: "IEEE VDS 2024",
+        link: "https://scibib.dbvis.de/publications/view/1069"
+      },
       {
         title: "GLANCE: Strategy-Based Visual Mediation for LLM Interaction",
         meta: "EuroVA 2026",
@@ -144,6 +149,12 @@ export const themes = [
       { label: "Project", link: "https://www.bilateral-ai.net/home" }
     ],
     selectedPublications: [
+      {
+        title: "Seeing the Shift: Keep an Eye on Semantic Changes in Times of LLMs",
+        authors: "R. BuchmÃ¼ller, F. Körte, D. A. Keim",
+        venue: "IEEE Visualization in Data Science (VDS), 2024",
+        link: "https://scibib.dbvis.de/publications/view/1069"
+      },
       {
         title: "GLANCE: Strategy-Based Visual Mediation for LLM Interaction",
         authors: "R. A. Buchmüller",
